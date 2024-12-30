@@ -1,0 +1,2 @@
+D:\GithubNew\2\otp1\OTP1\Wavix-OTP-Bot\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\2\otp1\OTP1\Wavix-OTP-Bot\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
